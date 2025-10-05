@@ -1,6 +1,11 @@
 # WEB VERSION
 **https://zitref.github.io/gdx-pathfinding/**
 
+# CONTROLS
+
+- `o` - **DEBUG MODE**, shows cells, chunks grid
+- `SPACE` - Starts **PATHFINDING** from **start point** to **end point**
+
 # gdx-pathfinding
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
