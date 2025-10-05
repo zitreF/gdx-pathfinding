@@ -1,3 +1,6 @@
+# WEB VERSION
+**https://zitref.github.io/gdx-pathfinding/**
+
 # gdx-pathfinding
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
