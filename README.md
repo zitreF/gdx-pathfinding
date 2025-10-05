@@ -6,6 +6,8 @@
 - `o` - **DEBUG MODE**, shows cells, chunks grid
 - `SPACE` - Starts **PATHFINDING** from **start point** to **end point**
 
+_You can move start and end points by **dragging**_
+
 # gdx-pathfinding
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
