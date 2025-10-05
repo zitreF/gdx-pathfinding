@@ -1,0 +1,17 @@
+i:b:/.gitkeep:178:1
+i:d:/ui:0:1
+i:b:/ui/font-list.fnt:21142:1
+i:b:/ui/font-subtitle.fnt:21150:1
+i:b:/ui/font-window.fnt:21146:1
+i:b:/ui/font.fnt:21132:1
+i:b:/ui/uiskin.atlas:5402:1
+i:b:/ui/uiskin.json:16175:1
+i:b:/ui/uiskin.png:40428:1
+c:b:/com/badlogic/gdx/utils/lsans-15.png:10270:1
+c:b:/com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:9096:1
+c:b:/com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:820:1
+c:b:/com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5874:1
+c:b:/com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2931:1
+c:b:/com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:1
+c:b:/com/badlogic/gdx/utils/lsans-15.fnt:17711:1
+c:b:/com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:869:1
