@@ -8,6 +8,8 @@
 
 _You can move start and end points by **dragging**_
 
+_You can **scroll up and down** to zoom in and out_
+
 # gdx-pathfinding
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
